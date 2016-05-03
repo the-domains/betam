@@ -4,8 +4,15 @@
         <description><![CDATA[betaM]]></description>
         <link>https://thegrid.ai/betam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 17:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 17:19:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/betam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oracle Acquires Opower to Boost Cloud Services for Utilities]]></title>
+            <description><![CDATA[<article><h1>Oracle Acquires Opower to Boost Cloud Services for Utilities</h1><p>Oracle (ORCL) announced on Monday that it will acquire Opower, an Arlington, Texas-based company that provides SaaS solutions to the utility industry. Oracle will pay approximately $532 million for the company, or roughly $10.30 per share in cash, according to a report by the Wall Street Journal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e2b7f40af9485139440379ca76477841de9da6b.png"></article>]]></description>
+            <link>http://talkincloud.com/cloud-computing-mergers-and-acquisitions/oracle-acquires-opower-boost-cloud-services-utilities</link>
+            <guid isPermaLink="false">fa1fbd02-f0e6-4aef-95d4-739ba4efa0e0</guid>
+            <pubDate>Tue, 03 May 2016 17:19:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Security Solutions Driving Cloud Adoption; End-user Organizations Still Concerned Over Security of Data]]></title>
             <description><![CDATA[<article><h1>Security Solutions Driving Cloud Adoption; End-user Organizations Still Concerned Over Security of Data</h1><p>Mississauga, Ontario - May 3, 2016 - WinMagic, Inc. today announced the availability of SecureDoc CloudVM, security software that encrypts virtual machines running on Infrastructure as a Service (IaaS) platforms. The solution has been purpose-built to address the growing concerns of storing critical data in virtual machines running in public, private and hybrid environments.</p></article>]]></description>
