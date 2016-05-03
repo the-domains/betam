@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[betaM]]></title>
         <description><![CDATA[betaM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/betam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 16:50:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 17:07:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/betam/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Security Solutions Driving Cloud Adoption; End-user Organizations Still Concerned Over Security of Data]]></title>
+            <description><![CDATA[<article><h1>Security Solutions Driving Cloud Adoption; End-user Organizations Still Concerned Over Security of Data</h1><p>Mississauga, Ontario - May 3, 2016 - WinMagic, Inc. today announced the availability of SecureDoc CloudVM, security software that encrypts virtual machines running on Infrastructure as a Service (IaaS) platforms. The solution has been purpose-built to address the growing concerns of storing critical data in virtual machines running in public, private and hybrid environments.</p></article>]]></description>
+            <link>http://www.winmagic.com/corporate/press-releases/item/930-security-solutions-driving-cloud-adoption-end-user-organizations-still-concerned-over-security-of-data</link>
+            <guid isPermaLink="false">84ec5333-1c8c-478a-9764-c9ea7a14034e</guid>
+            <pubDate>Tue, 03 May 2016 17:07:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>2016 STATE of IT - 20 CIO Budget, Technology and Digital Business Findings</p>]]></description>
